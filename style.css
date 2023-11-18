@@ -12,14 +12,12 @@ img{
 
 }
 img:hover{
-    /* width: 295px;
-    height: 172px; */
     transform: scale(0.95);
 
 }
 h3{
     color: brown;
-    background-color: black;
+    background-color: lightgoldenrodyellow;
     padding: 5px;
     margin: 5px;
     display: inline;
