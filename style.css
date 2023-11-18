@@ -1,9 +1,19 @@
 *{
     margin: 0;
-    
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
 }
 
 img{
     width: 295px;
     height: 172px;
+    /* box-shadow:10px 10px 10px 10px lightcyan; */
+
+}
+img:hover{
+    width: 295px;
+    height: 172px;
+    transform: scale(1.02);
+
 }
